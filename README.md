@@ -2,7 +2,7 @@
 
 Are you tired of your ugly horses? Honse.
 
-[The Honse](https://knowyourmeme.com/memes/honse) is a mystical creature. A wise horse if you will.
+[The Honse](https://knowyourmeme.com/memes/honse) is a mystical creature. A wide horse if you will.
 
 This mod adds in the Honse, as seen in the screenshots below.
 
