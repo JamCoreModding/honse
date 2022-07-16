@@ -22,14 +22,14 @@
  * THE SOFTWARE.
  */
 
-package io.github.jamalam360.templatemod;
+package io.github.jamalam360.honse;
 
 import io.github.jamalam360.jamlib.log.JamLibLogger;
 import net.fabricmc.api.ModInitializer;
 
-public class TemplateModInit implements ModInitializer {
-    public static final String MOD_ID = "templatemod";
-    public static final String MOD_NAME = "Template Mod";
+public class HonseInit implements ModInitializer {
+    public static final String MOD_ID = "honse";
+    public static final String MOD_NAME = "Honse";
     public static final JamLibLogger LOGGER = JamLibLogger.getLogger(MOD_NAME);
 
     @Override
