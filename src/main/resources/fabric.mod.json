@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io/github/jamalam360/honse/HonseInit"
+      "io.github.jamalam360.honse.HonseInit"
     ]
   },
   "mixins": [
